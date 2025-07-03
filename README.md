@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with [Create React App] . This is a project is a clone of the https://flatuicolors.com/. This helped me learn React and all the fundamentals surrounding it. 
 ## Available Scripts
 
 In the project directory, you can run:
